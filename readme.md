@@ -14,7 +14,7 @@ A very simple express api which uses multer to upload files locally. Files can b
 Run following commands to install the dependencies and to fire up the api on port 5001.
 
 ```
-    npm start i\
+    npm start i
     npm start
 ```
 
